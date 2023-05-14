@@ -1,0 +1,4 @@
+
+# .gitignore => xac dinh file ma ko luu vao remote Directory (Github)
+.env
+node_modules
